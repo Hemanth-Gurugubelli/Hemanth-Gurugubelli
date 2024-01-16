@@ -8,9 +8,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hemanth-gurugubelli&label=Profile%20views&color=0e75b6&style=flat" alt="hemanth-gurugubelli" /> </p>
 
-- 🔭 I’m currently working on [Trendz Shopping App](https://shoppingclone.ccbp.tech/login)
+- 🔭 I’m currently pursuing masters in Information technology
 
-- 🌱 I’m currently learning **React,Node.Js,Bootstrap,Redux**
+- 🌱 I’m currently learning **React,Node.Js,Bootstrap,Redux,javascript,Rest API**
 
 - 📫 How to reach me **hemanthgurugubelli@gmail.com**
 
